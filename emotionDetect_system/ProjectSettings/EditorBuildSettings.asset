@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/selectModeScene.unity
+    guid: eb5326abbb3a1a7409b6a1f9cfc1ff6c
+  - enabled: 1
+    path: Assets/Scenes/BrainWaveScene.unity
+    guid: aa3bddcf4eaba3540a853995594644ba
+  - enabled: 1
+    path: Assets/Scenes/startScene.unity
+    guid: ad3d26e8bac5b404c829ab2ec3039555
+  - enabled: 1
+    path: Assets/Scenes/FaceScene.unity
+    guid: 6969935b37274f14aa479826c2b2442f
+  - enabled: 1
+    path: Assets/Scenes/resultScene.unity
+    guid: aff3851f0e6dd0b409b812babc658e7d
+  - enabled: 1
+    path: Assets/Scenes/BothScene.unity
+    guid: 61006767a3bd0f341812756ed9ec9265
+  - enabled: 1
+    path: Assets/Scenes/HMDScene.unity
+    guid: d10fd52cce61c3c48beda76ca602e50c
+  - enabled: 1
+    path: Assets/Scenes/middleScene.unity
+    guid: 61eb679d83d4eeb489ea22d85950c26f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 255f60f15eb6e9d448f1c455a0abc543
   m_configObjects: {}
